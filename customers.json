@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "customers": {
+    "Aarav": {
+      "key_hash": "2eb15028db3feab31bf123bfb8f64c9e5bdb7a7fa63ccc38520699b14f60822d",
+      "active": true
+    },
+    "Rohan": {
+      "key_hash": "d5284c75dc9a92c1778139c89266a14e31fac250f731b7986b70cabcfdfe6e6e",
+      "active": true
+    },
+    "Kabir": {
+      "key_hash": "5c6a4d0d7b405330ca00a41cab70dda979d2bb57feff620ba8481610a82b96a3",
+      "active": true
+    },
+    "Arjun": {
+      "key_hash": "32502113fd5cc6650a48b843bdb952e0d79ca3ff227c99bf5949d4a304cf1b40",
+      "active": true
+    },
+    "Vihaan": {
+      "key_hash": "a87dde35732348153a78efd9e7d30a1db3298495ffc589f63b82c928d744a199",
+      "active": true
+    },
+    "Aditya": {
+      "key_hash": "af0adb3014df7ac1d8676edad807f59ce3e6d18e41a57374e404a7c795de9589",
+      "active": true
+    },
+    "Ishaan": {
+      "key_hash": "5062e3d017546b5c30079664483bb1ab9e793d31468696e8f93ea648ab954d4c",
+      "active": true
+    },
+    "Reyansh": {
+      "key_hash": "8886124ffa04b53f8d01d34166dfd060c8a65815979a0fffd1d2660c6b88f2c8",
+      "active": true
+    },
+    "Dev": {
+      "key_hash": "3c9ab831dc8820202201e51c00cc6917b76f33b9d35eb868027278265ecb0814",
+      "active": true
+    },
+    "Kunal": {
+      "key_hash": "47f0fc34e54c29f374ee11c7205cd11fb3aaeec738b5b3663fa41fe78284aef3",
+      "active": true
+    },
+    "Rahul": {
+      "key_hash": "3d0a08a3fdb60ae4b1ae8a03d742f23d1604fab0d4a0929d4f196599cddfb1e0",
+      "active": false
+    },
+    "Sameer": {
+      "key_hash": "96bc732686efca7db56a1ff3407ac960f5fd545994c55c89f667827763780b86",
+      "active": true
+    },
+    "Nikhil": {
+      "key_hash": "f3d0ab675c6c60cf66a6341fc4539824168965fba4273205c18cdd633246c45c",
+      "active": true
+    },
+    "Manav": {
+      "key_hash": "2491cd102256a5a01c3017c09442bd52d6b82a6e4143f00eadc4041033256733",
+      "active": true
+    },
+    "Yash": {
+      "key_hash": "4f653d26a017021bd1fd8917edbac64580dbd1b511fb4f25ac1350a94221779d",
+      "active": true
+    }
+  }
+}
