@@ -1,17 +1,59 @@
 {
   "app": "CricSpecter",
   "latest_version": "1.0",
-  "exe_url": "https://raw.githubusercontent.com/shetom1234-dotcom/CricSpecter/main/CricSpecter.exe",
+  "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter.exe",
   "sha256": "",
   "notes": "CricSpecter v1.0",
   "devices": {
     "09041172": {
-      "name": "CICKET GLOW",
-      "active": true
+      "name": "CRICSPKOEN",
+      "active": true,
+      "message": "PAY BEFORE !% SEPTEMBER 650rs OTHERWAY SCOIREBOARD WILL STOP WORKING "
     },
-    "87654321": {
-      "name": "Example User 2",
-      "active": false
+    "48392715": {
+      "name": "Rahul",
+      "active": true,
+      "message": "Have a great match day! Your CricSpecter terminal is ready."
+    },
+    "72614083": {
+      "name": "Arjun",
+      "active": true,
+      "message": "Welcome Arjun! Enjoy smooth live cricket updates today."
+    },
+    "31589462": {
+      "name": "Rohan",
+      "active": true,
+      "message": "Rohan, your premium scoreboard access is active. Enjoy!"
+    },
+    "86420371": {
+      "name": "Vikram",
+      "active": true,
+      "message": "Welcome Vikram! Wishing you a powerful CricSpecter session."
+    },
+    "59274136": {
+      "name": "Amit",
+      "active": true,
+      "message": "Amit, your CricSpecter setup is online and ready to go."
+    },
+    "14763820": {
+      "name": "Karan",
+      "active": true,
+      "message": "Welcome Karan! Live cricket data is waiting for you."
+    },
+    "93825147": {
+      "name": "Sameer",
+      "active": true,
+      "message": "Sameer, enjoy your premium CricSpecter experience."
+    },
+    "67142095": {
+      "name": "Dev",
+      "active": true,
+      "message": "Welcome Dev! Hope today's scoreboard session goes perfectly."
+    },
+    "20497531": {
+      "name": "Aditya",
+      "active": false,
+      "message": "Aditya, your CricSpecter access is currently disabled."
     }
   }
 }
