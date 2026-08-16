@@ -1,8 +1,8 @@
 {
   "app": "CricSpecter",
-  "latest_version": "1.0",
+  "latest_version": "1.1",
   "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter.exe",
-  "sha256": "",
+  "sha256": "f58665949e28c97ddc8f73674017b0282eb07447ca5148d95f1804f4c72b5e1f",
   "notes": "CricSpecter v1.0",
   "devices": {
     "09041172": {
