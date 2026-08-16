@@ -5,7 +5,7 @@
   "sha256": "",
   "notes": "CricSpecter v1.0",
   "devices": {
-    "12345678": {
+    "09041172": {
       "name": "Example User 1",
       "active": true
     },
