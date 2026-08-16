@@ -1,0 +1,17 @@
+{
+  "app": "CricSpecter",
+  "latest_version": "1.0",
+  "exe_url": "https://raw.githubusercontent.com/shetom1234-dotcom/CricSpecter/main/CricSpecter.exe",
+  "sha256": "",
+  "notes": "CricSpecter v1.0",
+  "devices": {
+    "12345678": {
+      "name": "Example User 1",
+      "active": true
+    },
+    "87654321": {
+      "name": "Example User 2",
+      "active": false
+    }
+  }
+}
