@@ -1,20 +1,27 @@
 {
   "app": "CricSpecter",
+
   "latest_version": "1.0",
-  "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter.exe",
+
+  "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter_1.0.exe",
+
   "sha256": "",
+
   "notes": "CricSpecter v1.0",
+
   "devices": {
+
     "26590019": {
       "name": "TRUE WORLD",
       "active": true,
-      "message": "THX FOR TRUST CRICSPOKEN BRO ",
+      "message": "THX FOR TRUST CRICSPOKEN BRO",
       "html_file": "09041172.html",
       "html_version": "1.0",
       "preview_file": "09041172_p.html",
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "48386888": {
       "name": "ALL INDIA SPORT",
       "active": true,
@@ -25,6 +32,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "79553454": {
       "name": "Arjun",
       "active": true,
@@ -35,7 +43,8 @@
       "preview_version": "1.0",
       "show_preview": true
     },
-    "26590019": {
+
+    "31589462": {
       "name": "TRUE WORLD",
       "active": true,
       "message": "Rohan, your premium scoreboard access is active. Enjoy!",
@@ -45,6 +54,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "86420371": {
       "name": "Vikram",
       "active": true,
@@ -55,6 +65,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "09041172": {
       "name": "CodingDaDa",
       "active": true,
@@ -65,6 +76,7 @@
       "preview_version": "1.0",
       "show_preview": false
     },
+
     "14763820": {
       "name": "Karan",
       "active": true,
@@ -75,6 +87,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "83230364": {
       "name": "TRUE WORLD",
       "active": true,
@@ -85,6 +98,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "67142095": {
       "name": "Dev",
       "active": true,
@@ -95,6 +109,7 @@
       "preview_version": "1.0",
       "show_preview": true
     },
+
     "20497531": {
       "name": "Aditya",
       "active": false,
@@ -105,5 +120,6 @@
       "preview_version": "1.0",
       "show_preview": false
     }
+
   }
 }
