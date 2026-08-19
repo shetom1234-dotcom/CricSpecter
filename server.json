@@ -1,125 +1,69 @@
 {
   "app": "CricSpecter",
-
   "latest_version": "1.0",
-
   "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter_1.0.exe",
-
   "sha256": "",
-
   "notes": "CricSpecter v1.0",
-
   "devices": {
-
     "40741682": {
       "name": "YUG SPORTS",
       "active": true,
       "message": "450 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
-      "html_file": "40741682.html",
-      "html_version": "1.0",
-      "preview_file": "40741682_p.html",
-      "preview_version": "1.0",
       "show_preview": false
     },
-
     "48386888": {
       "name": "ALL INDIA SPORT",
       "active": true,
       "message": "Have a great match day! Your CricSpecter terminal is ready.",
-      "html_file": "48386888.html",
-      "html_version": "1.0",
-      "preview_file": "48386888_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "79553454": {
       "name": "Arjun",
       "active": true,
       "message": "Welcome My Buddy",
-      "html_file": "79553454.html",
-      "html_version": "1.0",
-      "preview_file": "79553454_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "31589462": {
       "name": "TRUE WORLD",
       "active": true,
       "message": "Rohan, your premium scoreboard access is active. Enjoy!",
-      "html_file": "31589462.html",
-      "html_version": "1.0",
-      "preview_file": "31589462_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "86420371": {
       "name": "Vikram",
       "active": true,
       "message": "Welcome Vikram! Wishing you a powerful CricSpecter session.",
-      "html_file": "86420371.html",
-      "html_version": "1.0",
-      "preview_file": "86420371_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "09041172": {
       "name": "CodingDaDa",
       "active": true,
       "message": "Amit, your CricSpecter setup is online and ready to go.",
-      "html_file": "40741682.html",
-      "html_version": "1.0",
-      "preview_file": "40741682_p.html",
-      "preview_version": "1.0",
       "show_preview": false
     },
-
     "14763820": {
       "name": "Karan",
       "active": true,
       "message": "Welcome Karan! Live cricket data is waiting for you.",
-      "html_file": "14763820.html",
-      "html_version": "1.0",
-      "preview_file": "14763820_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
-    "83230364": {
-      "name": "TRUE WORLD",
+    "93825147": {
+      "name": "Sameer",
       "active": true,
       "message": "Sameer, enjoy your premium CricSpecter experience.",
-      "html_file": "93825147.html",
-      "html_version": "1.0",
-      "preview_file": "93825147_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "67142095": {
       "name": "Dev",
       "active": true,
       "message": "Welcome Dev! Hope today's scoreboard session goes perfectly.",
-      "html_file": "67142095.html",
-      "html_version": "1.0",
-      "preview_file": "67142095_p.html",
-      "preview_version": "1.0",
       "show_preview": true
     },
-
     "20497531": {
       "name": "Aditya",
       "active": false,
       "message": "Aditya, your CricSpecter access is currently disabled.",
-      "html_file": "20497531.html",
-      "html_version": "1.0",
-      "preview_file": "20497531_p.html",
-      "preview_version": "1.0",
       "show_preview": false
     }
-
   }
 }
