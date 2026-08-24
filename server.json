@@ -17,6 +17,12 @@
       "message": "Have a great match day! Your CricSpecter terminal is ready.",
       "show_preview": true
     },
+    "80665550": {
+      "name": "SPORT INFO NPL",
+      "active": true,
+      "message": "YOU ARE MAN DUDE WORK HARD",
+      "show_preview": true
+    },
     "95137925": {
       "name": "CRICSPOKEN",
       "active": true,
