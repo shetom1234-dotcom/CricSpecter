@@ -3,92 +3,118 @@
   "latest_version": "1.0",
   "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter_1.0.exe",
   "notes": "CricSpecter v1.0",
-  "html_file": "htmlfile.html",
-  "preview_file": "preview.html",
   "devices": {
     "40741682": {
       "name": "YUG SPORTS",
       "active": true,
       "message": "450 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "YUG_SPORTS.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
     },
     "40958713": {
       "name": "JSB COMMENTRY",
       "active": true,
       "message": "Have a great match day! Your CricSpecter terminal is ready.",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "JSB_COMMENTRY.html",
+      "preview_file": "JSB_COMMENTRY_PREVIEW.html"
     },
     "35776279": {
       "name": "UTV NEWS",
       "active": true,
       "message": "EXPIRY DATE 1 OCTOMBER",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "UTV_NEWS.html",
+      "preview_file": "UTV_NEWS_PREVIEW.html"
     },
     "88294615": {
       "name": "KAIRAV BHAI",
       "active": true,
       "message": "EXPIRY 15 september",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "KAIRAV_BHAI.html",
+      "preview_file": "KAIRAV_BHAI_PREVIEW.html"
     },
     "80665550": {
       "name": "SPORT INFO NPL",
       "active": true,
       "message": "YOU ARE MAN DUDE WORK HARD",
-      "show_preview": true
+      "show_preview": true,
+      "html_file": "SPORT_INFO_NPL.html",
+      "preview_file": "SPORT_INFO_NPL_PREVIEW.html"
     },
     "95137925": {
       "name": "CRICSPOKEN",
       "active": true,
       "message": "Welcome My Buddy",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "CRICSPOKEN.html",
+      "preview_file": "CRICSPOKEN_PREVIEW.html"
     },
     "79553454": {
       "name": "MARUF SPORT",
       "active": true,
       "message": "STUDENT SA ITNA KAM KARWANA ACHA BAT NAHI SUDHAR JAO",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "MARUF_SPORT.html",
+      "preview_file": "MARUF_SPORT_PREVIEW.html"
     },
     "31589462": {
       "name": "TRUE WORLD",
       "active": true,
       "message": "Rohan, your premium scoreboard access is active. Enjoy!",
-      "show_preview": true
+      "show_preview": true,
+      "html_file": "TRUE_WORLD.html",
+      "preview_file": "TRUE_WORLD_PREVIEW.html"
     },
     "CS-AA5C25F56EEED67E9348": {
       "name": "CRICKET EXPRESS",
       "active": true,
       "message": "EXPIRY 2026 decmeber",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "CRICKET_EXPRESS.html",
+      "preview_file": "CRICKET_EXPRESS_PREVIEW.html"
     },
     "09041172": {
       "name": "CodingDaDa",
       "active": true,
       "message": "Amit, your CricSpecter setup is online and ready to go.",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "CodingDaDa.html",
+      "preview_file": "CodingDaDa_PREVIEW.html"
     },
     "88457017": {
       "name": "CRICKET EXPRESS",
       "active": true,
       "message": "Welcome Karan! Live cricket data is waiting for you.",
-      "show_preview": true
+      "show_preview": true,
+      "html_file": "CRICKET_EXPRESS.html",
+      "preview_file": "CRICKET_EXPRESS_PREVIEW.html"
     },
     "23253414": {
       "name": "CRIC IWTH ROHIT",
       "active": true,
       "message": "PAY remaning 300 rs in 3 days otehr way closing app",
-      "show_preview": true
+      "show_preview": true,
+      "html_file": "CRIC_IWTH_ROHIT.html",
+      "preview_file": "CRIC_IWTH_ROHIT_PREVIEW.html"
     },
     "14204453": {
       "name": "CRICKET GLOW",
       "active": true,
       "message": "STUDENT SA ITNA KAM KARWANA ACHA BAT NAHI SUDHAR JAO",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "CRICKET_GLOW.html",
+      "preview_file": "CRICKET_GLOW_PREVIEW.html"
     },
     "81854542": {
       "name": "CRICKET BABU",
       "active": true,
       "message": "PAYMENT DATE 15 augest next",
-      "show_preview": false
+      "show_preview": false,
+      "html_file": "CRICKET_BABU.html",
+      "preview_file": "CRICKET_BABU_PREVIEW.html"
     }
   }
 }
