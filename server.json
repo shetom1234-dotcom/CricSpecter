@@ -3,6 +3,8 @@
   "latest_version": "1.0",
   "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter_1.0.exe",
   "notes": "CricSpecter v1.0",
+  "html_file": "htmlfile.html",
+  "preview_file": "preview.html",
   "devices": {
     "40741682": {
       "name": "YUG SPORTS",
