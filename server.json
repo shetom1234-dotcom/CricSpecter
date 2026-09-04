@@ -77,12 +77,12 @@
       "preview_file": "CRICKET_EXPRESS_PREVIEW.html"
     },
     "09041172": {
-      "name": "CodingDaDa",
+      "name": "CRIC WTH ROHIT",
       "active": true,
-      "message": "Amit, your CricSpecter setup is online and ready to go.",
-      "show_preview": false,
-      "html_file": "CodingDaDa.html",
-      "preview_file": "CodingDaDa_PREVIEW.html"
+      "message": "NEXT PAYMENT ON 15 SEPTEMBER 650rs",
+      "show_preview": true,
+      "html_file": "cric_with_rohit.html",
+      "preview_file": "cric_with_rohit_P.html"
     },
     "88457017": {
       "name": "CRICKET EXPRESS",
@@ -93,7 +93,7 @@
       "preview_file": "CRICKET_EXPRESS_PREVIEW.html"
     },
     "23253414": {
-      "name": "CRIC IWTH ROHIT",
+      "name": "CRIC WTH ROHIT",
       "active": true,
       "message": "NEXT PAYMENT ON 15 SEPTEMBER 650rs",
       "show_preview": true,
