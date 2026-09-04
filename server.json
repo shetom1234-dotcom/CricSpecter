@@ -78,7 +78,7 @@
     },
     "09041172": {
       "name": "CRIC WTH ROHIT",
-      "active": true,
+      "active": false,
       "message": "NEXT PAYMENT ON 15 SEPTEMBER 650rs",
       "show_preview": true,
       "html_file": "cric_with_rohit.html",
