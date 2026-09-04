@@ -95,10 +95,10 @@
     "23253414": {
       "name": "CRIC IWTH ROHIT",
       "active": true,
-      "message": "PAY remaning 300 rs in 3 days otehr way closing app",
+      "message": "NEXT PAYMENT ON 15 SEPTEMBER 650rs",
       "show_preview": true,
-      "html_file": "CRIC_IWTH_ROHIT.html",
-      "preview_file": "CRIC_IWTH_ROHIT_PREVIEW.html"
+      "html_file": "cric_with_rohit.html",
+      "preview_file": "cric_with_rohit_P.html"
     },
     "14204453": {
       "name": "CRICKET GLOW",
