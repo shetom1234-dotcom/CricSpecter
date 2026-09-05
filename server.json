@@ -28,6 +28,14 @@
       "html_file": "UTV_NEWS.html",
       "preview_file": "UTV_NEWS_PREVIEW.html"
     },
+    "87460771": {
+      "name": "CricVoice",
+      "active": true,
+      "message": "NEXT PAYMENT DATE 4 OCTOMBER 1000 rs  (1000/6000)",
+      "show_preview": false,
+      "html_file": "CricVoice.html",
+      "preview_file": "CricVoice_P.html"
+    },
     "88294615": {
       "name": "KAIRAV BHAI",
       "active": true,
