@@ -36,6 +36,14 @@
       "html_file": "CricVoice.html",
       "preview_file": "CricVoice_P.html"
     },
+    "47986868": {
+      "name": "CricScorer",
+      "active": true,
+      "message": "PAYMNET FULL DONE",
+      "show_preview": false,
+      "html_file": "CricScorer.html",
+      "preview_file": "CricScorer.html_P.html"
+    },
     "88294615": {
       "name": "KAIRAV BHAI",
       "active": true,
