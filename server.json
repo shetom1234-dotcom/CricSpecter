@@ -1,7 +1,8 @@
+```json
 {
   "app": "CricSpecter",
   "latest_version": "1.0",
-  "exe_url": "https://github.com/shetom1234-dotcom/CricSpecter/blob/main/CricSpecter_1.0.exe",
+  "exe_url": "https://raw.githubusercontent.com/shetom1234-dotcom/CricSpecter/main/CricSpecter_1.0.exe",
   "notes": "CricSpecter v1.0",
   "devices": {
     "40741682": {
@@ -77,10 +78,10 @@
       "preview_file": "CRICKET_EXPRESS_PREVIEW.html"
     },
     "09041172": {
-      "name": "ULTIMATE WORLD ",
+      "name": "ULTIMATE WORLD",
       "active": true,
       "message": "NEXT PAYMENT ON 4 OCTOMBER 700rs",
-      "show_preview": true,
+      "show_preview": false,
       "html_file": "ULTIMATE_CRICKET_WORLD.html",
       "preview_file": "ULTIMATE_CRICKET_WORLD_P.html"
     },
@@ -115,14 +116,7 @@
       "show_preview": false,
       "html_file": "CRICKET_BABU.html",
       "preview_file": "CRICKET_BABU_PREVIEW.html"
-    },
-    "09041172": {
-      "name": "ULTIMATE WORLD ",
-      "active": true,
-      "message": "NEXT PAYMENT ON 4 OCTOMBER 700rs",
-      "show_preview": false,
-      "html_file": "ULTIMATE_CRICKET_WORLD.html",
-      "preview_file": "ULTIMATE_CRICKET_WORLD_P.html"
-    },
+    }
   }
 }
+```
