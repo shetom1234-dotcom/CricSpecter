@@ -84,6 +84,14 @@
       "html_file": "ULTIMATE_CRICKET_WORLD.html",
       "preview_file": "ULTIMATE_CRICKET_WORLD_P.html"
     },
+     "17082439": {
+      "name": "Cricket G",
+      "active": true,
+      "message": "NEXT PAYMENT ON 4 NOVEMBER 800rs",
+      "show_preview": false,
+      "html_file": "Cricket_G.html",
+      "preview_file": "Cricket_G.html_P.html"
+    },
     "88457017": {
       "name": "CRICKET EXPRESS",
       "active": true,
