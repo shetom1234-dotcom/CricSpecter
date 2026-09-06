@@ -17,8 +17,16 @@
       "active": true,
       "message": "Have a great match day! Your CricSpecter terminal is ready.",
       "show_preview": false,
-      "html_file": "JSB_COMMENTRY.html",
-      "preview_file": "JSB_COMMENTRY_PREVIEW.html"
+      "html_file": "The Delhi Junction.html",
+      "preview_file": "The Delhi Junction.html"
+    },
+     "80945210": {
+      "name": "JDELHI JUNCTION",
+      "active": true,
+      "message": "Have a great match day! Your CricSpecter terminal is ready.",
+      "show_preview": false,
+      "html_file": "The Delhi Junction.html",
+      "preview_file": "The Delhi Junction.html"
     },
     "35776279": {
       "name": "UTV NEWS",
