@@ -21,7 +21,7 @@
       "preview_file": "The Delhi Junction.html"
     },
      "80945210": {
-      "name": "JDELHI JUNCTION",
+      "name": "DELHI JUNCTION",
       "active": true,
       "message": "NEXT PAYNET 600 rs on 5 OCTOMBER.",
       "show_preview": false,
@@ -147,6 +147,14 @@
       "show_preview": false,
       "html_file": "CRICKET_GLOW.html",
       "preview_file": "CRICKET_GLOW_PREVIEW.html"
+    },
+    "73136658": {
+      "name": "CRICKET VOICE",
+      "active": true,
+      "message": "STUDENT SA ITNA KAM KARWANA ACHA BAT NAHI SUDHAR JAO",
+      "show_preview": false,
+      "html_file": "The_CricketVoice.html",
+      "preview_file": "The_CricketVoice.html"
     },
     "81854542": {
       "name": "CRICKET BABU",
