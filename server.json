@@ -12,6 +12,14 @@
       "html_file": "YUG_SPORTS.html",
       "preview_file": "YUG_SPORTS_PREVIEW.html"
     },
+     "40741682": {
+      "name": "MANISH SPORTS",
+      "active": true,
+      "message": "650 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
+      "show_preview": false,
+      "html_file": "manish.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
+    },
     "40958713": {
       "name": "JSB COMMENTRY",
       "active": true,
