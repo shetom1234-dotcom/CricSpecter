@@ -20,6 +20,14 @@
       "html_file": "manish.html",
       "preview_file": "YUG_SPORTS_PREVIEW.html"
     },
+    "69907214": {
+      "name": "STUMP VISION",
+      "active": true,
+      "message": "10k payment",
+      "show_preview": false,
+      "html_file": "stumpvision.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
+    },
     "40958713": {
       "name": "JSB COMMENTRY",
       "active": true,
