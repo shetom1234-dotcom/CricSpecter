@@ -7,9 +7,17 @@
     "40741682": {
       "name": "YUG SPORTS",
       "active": true,
-      "message": "450 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
+      "message": "450 PAYMENT, NEXT PAYMENT DATE 24 SEPTEMBER 2026",
       "show_preview": false,
-      "html_file": "YUG_SPORTS.html",
+      "html_file": "yug.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
+    },
+    "40268650": {
+      "name": "DARPAN",
+      "active": true,
+      "message": "650 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
+      "show_preview": false,
+      "html_file": "DARAPAN.html",
       "preview_file": "YUG_SPORTS_PREVIEW.html"
     },
     "09965815": {
