@@ -20,6 +20,14 @@
       "html_file": "DARAPAN.html",
       "preview_file": "YUG_SPORTS_PREVIEW.html"
     },
+    "76936416": {
+      "name": "GOLDEN",
+      "active": true,
+      "message": "650 PAYMENT, NEXT PAYMENT DATE 15 SEPTEMBER 2026",
+      "show_preview": false,
+      "html_file": "DARAPAN.html",
+      "preview_file": "YUG_SPORTS_PREVIEW.html"
+    },
     "0": {
       "name": "COMBOX",
       "active": true,
